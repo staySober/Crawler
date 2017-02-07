@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="thumbelina">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/thumbelina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sitecapturer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htmlparser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htmllexer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/filterbuilder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
